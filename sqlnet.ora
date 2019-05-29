@@ -1,0 +1,7 @@
+# Every line that begins with # is a comment line
+# You can modify the entry below for your own database.
+
+# sqlnet.ora Network Configuration File
+
+SQLNET.AUTHENTICATION_SERVICES= (NTS)
+NAMES.DIRECTORY_PATH= (TNSNAMES, EZCONNECT)
