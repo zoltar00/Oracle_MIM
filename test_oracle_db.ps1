@@ -1,4 +1,4 @@
-﻿Add-Type -Path "C:\u01\apps\ODAC\odp.net\managed\common\Oracle.ManagedDataAccess.dll"
+﻿Add-Type -Path "D:\ODAC\odp.net\managed\common\Oracle.ManagedDataAccess.dll"
 $reader=$false
 $username = Read-Host -Prompt "Enter database username"
 $password = Read-Host -Prompt "Enter database password"
